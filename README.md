@@ -28,15 +28,6 @@ I focus on writing maintainable code and delivering seamless user experiences.
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimkhalid9922&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 📈 GitHub Stats
 <div align="center">
 
@@ -49,11 +40,8 @@ I focus on writing maintainable code and delivering seamless user experiences.
 ---
 
 ### 🌟 Featured Projects
-
-- 🔹 **MyBillSmart** – Smart billing app with Firebase integration
-- 
+- 🔹 **MyBillSmart** – Smart billing app with Firebase integration  
 - 🔹 **Vault App** – Community vault app with API integration  
-
 - 🔹 **AI Kids Store** – E-commerce app with chatbot and Firebase backend  
 
 *(Private repos for client projects — contact for details)*
@@ -68,7 +56,7 @@ I focus on writing maintainable code and delivering seamless user experiences.
 ### 📫 Let's Connect
 - 🌐 [Portfolio](https://ibrahimkhalid-portfolio.netlify.app/)  
 - 📧 [Email Me](mailto:seeibrahimch7@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-chaudhary-37a4b21b5/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-chaudhary-37a4b21b5/)  
 
 ---
 
